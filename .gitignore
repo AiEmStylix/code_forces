@@ -32,3 +32,5 @@
 *.out
 *.app
 
+# Vscode config folder
+.vscode
